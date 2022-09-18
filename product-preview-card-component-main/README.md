@@ -25,6 +25,7 @@ Users should be able to:
 ### Desktop Screenshot
 
 <img src="desktop.png" alt="desktop version" width="500px"/>
+<img src="mobile.png" alt="mobile version" width="250px"/>
 
 
 ### Built with
